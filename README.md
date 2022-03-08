@@ -14,7 +14,8 @@ MAT 500 Project 3
 Qt project file and source code (.cpp/.h) in 
 "Project" Folder
 
-Project File:
+Project File: 
+
 Project > MAT500Project3.pro
 
 -------------------------------------------
