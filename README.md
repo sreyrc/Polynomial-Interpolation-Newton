@@ -6,13 +6,6 @@ Made in Qt 5.15.0 using the qcustomplot library
 
 -------------------------------------------
 
-Name: Srey Raychaudhuri
-DigiPen ID: 60000721
-
-MAT 500 Project 3
-
--------------------------------------------
-
 Qt project file and source code (.cpp/.h) in 
 "Project" Folder
 
