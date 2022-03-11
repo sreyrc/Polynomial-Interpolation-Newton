@@ -1,4 +1,4 @@
-# Polynomial-Interpolation-Newton
+# Polynomial Interpolation - Newton's Method
 
 
 
